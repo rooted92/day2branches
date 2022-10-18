@@ -1,0 +1,15 @@
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\bin\Debug\net6.0\day2branches.exe
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\bin\Debug\net6.0\day2branches.deps.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\bin\Debug\net6.0\day2branches.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\bin\Debug\net6.0\day2branches.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\bin\Debug\net6.0\day2branches.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\obj\Debug\net6.0\day2branches.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\obj\Debug\net6.0\day2branches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\obj\Debug\net6.0\day2branches.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\obj\Debug\net6.0\day2branches.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\obj\Debug\net6.0\day2branches.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\obj\Debug\net6.0\day2branches.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\obj\Debug\net6.0\refint\day2branches.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\obj\Debug\net6.0\day2branches.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\obj\Debug\net6.0\day2branches.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day2branches\obj\Debug\net6.0\ref\day2branches.dll
